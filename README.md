@@ -1,4 +1,4 @@
-# Linkedin-Follower-Extracter
+# Linkedin Follower Extracter
 A handy tool that will extract all of your company follower names into a text file
 
 <b>Python, Selenium, and BeautifulSoup </b>are required
